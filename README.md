@@ -8,7 +8,7 @@ Brief recap of my current activity:
 
 ### Contact
 - Institutional email: <a href= "mailto:j.raffi@studenti.unipi.it" target="_blank">j.raffi@studenti.unipi.it</a>
-- Linkedin: <a href='linkedin.com/in/jacopo-raffi-568863226' target="_blank">Jacopo Raffi</a>
+- Linkedin: <a href='https://www.linkedin.com/in/jacopo-raffi-568863226/' target="_blank">Jacopo Raffi</a>
 
 <!-- STATISTICS --
 #### Interests
