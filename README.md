@@ -1,8 +1,6 @@
 
 ### Hi there 👋🏻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JacopoRaffi&label=Profile%20views&color=0e75b6&style=flat" alt="Jacopo Raffi" /> </p>
-
 Brief recap of my current activity:
 - 🎓 MSc student in <b>Artificial Intelligence</b> @<a href='https://didattica.di.unipi.it/en/master-programme-in-computer-science/curricula-2/curriculum-%c2%93artificial-intelligence%c2%94-2/' target="_blank">University of Pisa</a>.
 
