@@ -33,7 +33,7 @@ Brief recap of my current activity:
 
 <!-- LANGUAGES -->
 <a href="https://github.com/JacopoRaffi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacopoRaffi&layout=compact&theme=calm&hide=jupyter%20notebook,CMake,shell,TeX,Makefile&v=20250206152413" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacopoRaffi&layout=compact&theme=calm&hide=jupyter%20notebook,CMake,shell,TeX,Makefile&v=20250206152513" />
 </a>
 
 
