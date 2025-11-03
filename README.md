@@ -2,11 +2,11 @@
 ### Hi there 👋🏻
 
 Brief recap of my current activity:
-- 🎓 MSc student in <b>Artificial Intelligence</b> @<a href='https://didattica.di.unipi.it/en/master-programme-in-computer-science/curricula-2/curriculum-%c2%93artificial-intelligence%c2%94-2/' target="_blank">University of Pisa</a>.
+- PhD student in <b>Computer Science</b>, focusing on High-Performance Computing for AI. @<a href='https://iecs.unitn.it/' target="_blank">University of Trento</a>.
 
 ### Contact
 - Personal email: <a href= "mailto:raffijacopo@gmail.com" target="_blank">raffijacopo@gmail.com</a>
-- Institutional email: <a href= "mailto:j.raffi@studenti.unipi.it" target="_blank">j.raffi@studenti.unipi.it</a>
+- Institutional email: <a href= "mailto:jacopo.raffi@unitn.it" target="_blank">jacopo.raffi@unitn.it</a>
 - Linkedin: <a href='https://www.linkedin.com/in/jacopo-raffi-568863226/' target="_blank">Jacopo Raffi</a>
 
 <!-- STATISTICS --
