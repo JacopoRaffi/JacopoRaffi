@@ -18,23 +18,3 @@ Brief recap of my current activity:
 -->
 ### Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<br/><br/>
-### GitHub activity:
-<!-- TROPHY -->
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=JacopoRaffi&theme=gruvbox&no-bg=true" alt="JacopoRaffi" /> </p>
-
-<br/>
-
-<!-- STATISTICS -->
-<a href="https://github.com/JacopoRaffi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacopoRaffi&layout=compact&theme=calm&show_icons=true" />
-</a>
-
-<!-- LANGUAGES -->
-<a href="https://github.com/JacopoRaffi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacopoRaffi&layout=compact&theme=calm&hide=jupyter%20notebook,CMake,shell,TeX,Makefile&v=20250206152513" />
-</a>
-
-
-<br/><br/>
